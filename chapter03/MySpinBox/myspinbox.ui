@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>MySpinBoxClass</class>
+ <widget class="QWidget" name="MySpinBoxClass" >
+  <property name="objectName" >
+   <string notr="true">MySpinBoxClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>MySpinBox</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="myspinbox.qrc"/>
+ </resources>
+ <connections/>
+</UI>

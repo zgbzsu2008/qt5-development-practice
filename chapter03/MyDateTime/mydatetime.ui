@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>MyDateTimeClass</class>
+ <widget class="QWidget" name="MyDateTimeClass" >
+  <property name="objectName" >
+   <string notr="true">MyDateTimeClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>MyDateTime</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="mydatetime.qrc"/>
+ </resources>
+ <connections/>
+</UI>
