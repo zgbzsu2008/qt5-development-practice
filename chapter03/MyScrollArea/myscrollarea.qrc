@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MyScrollArea">
+        <file>Resources/2.jpg</file>
+    </qresource>
+</RCC>

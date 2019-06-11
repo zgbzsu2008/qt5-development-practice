@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>MySliderClass</class>
+ <widget class="QWidget" name="MySliderClass" >
+  <property name="objectName" >
+   <string notr="true">MySliderClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>MySlider</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="myslider.qrc"/>
+ </resources>
+ <connections/>
+</UI>

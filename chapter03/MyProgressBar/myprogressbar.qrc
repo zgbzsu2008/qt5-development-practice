@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="MyProgressBar">
+    </qresource>
+</RCC>

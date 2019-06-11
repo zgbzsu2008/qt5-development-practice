@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MyLable">
+        <file>Resources/2.png</file>
+    </qresource>
+</RCC>

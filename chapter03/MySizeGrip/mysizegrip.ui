@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>MySizeGripClass</class>
+ <widget class="QWidget" name="MySizeGripClass" >
+  <property name="objectName" >
+   <string notr="true">MySizeGripClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>MySizeGrip</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="mysizegrip.qrc"/>
+ </resources>
+ <connections/>
+</UI>

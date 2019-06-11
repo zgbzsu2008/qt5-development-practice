@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>MyScrollAreaClass</class>
+ <widget class="QWidget" name="MyScrollAreaClass" >
+  <property name="objectName" >
+   <string notr="true">MyScrollAreaClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>MyScrollArea</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="myscrollarea.qrc"/>
+ </resources>
+ <connections/>
+</UI>
