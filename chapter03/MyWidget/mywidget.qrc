@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MyWidget">
+        <file>Resources/3.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MyToolBar">
+        <file>Resources/1.png</file>
+        <file>Resources/8.png</file>
+    </qresource>
+</RCC>
